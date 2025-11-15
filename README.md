@@ -1,3 +1,5 @@
 # DarkPatterns
 
-placeholder
+## placeholder for description
+
+## About
